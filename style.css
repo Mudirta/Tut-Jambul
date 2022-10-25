@@ -56,5 +56,14 @@ button:hover {
     margin-top: 35px;
 
 }
+@media (max-width:640px){
+        .center{
+            flex-wrap: wrap;
+            flex-direction: column;
+        }
+        .outer{
+            margin: 50px 50px;
+        }
+    }
 
 
