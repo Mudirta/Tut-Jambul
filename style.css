@@ -54,7 +54,7 @@ button:hover {
     align-items: center;
     justify-content: center;
     margin-top: 35px;
-
+    color: rgb(163, 155, 243);
 }
 @media (max-width:640px){
         .center{
